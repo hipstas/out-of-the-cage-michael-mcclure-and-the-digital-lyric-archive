@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-speaking.json",
+  "id": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-speaking.json",
   "type": "AnnotationPage",
   "label": "McClure speaking",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "source": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3521.240789,3532.207675"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "source": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3546.699631,3554.228486"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "source": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3629.473509,3635.653262"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "source": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3637.611635,3646.010877"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "source": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3647.098861,3660.938027"

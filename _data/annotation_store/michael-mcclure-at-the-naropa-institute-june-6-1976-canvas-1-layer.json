@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-layer.json",
+  "id": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-layer.json",
   "type": "AnnotationPage",
   "label": "layer",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "source": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "time in hr:min:sec (displays in total sec)"
