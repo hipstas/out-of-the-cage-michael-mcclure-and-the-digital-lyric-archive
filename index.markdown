@@ -4,8 +4,6 @@
 
 layout: home
 ---
-# Out of the Cage: Michael McClure and the Digital Lyric Archive
-
 Matthew Kilbane
 
 <img src= "https://exhibitions.lib.udel.edu/beat-visions-and-the-counterculture/wp-content/uploads/sites/11/2019/10/mcclure_love_lion_lioness-e1571669577141.jpg" max-width="600" height="440" align="center"> 
